@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+.env
+.venv
+*.log
+.git
+.gitignore
+*.md
+*.bat
+test_api.py
