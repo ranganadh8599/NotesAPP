@@ -208,7 +208,6 @@ If you encounter issues:
 
 - `performance_test.py` - Main performance testing script
 - `generate_report.py` - Report generation script
-- `run_performance_tests.bat` - Windows batch file for easy execution
 - `performance_results_*.json` - Test results (generated)
 - `performance_results_*.html` - HTML report (generated)
 - `performance_results_*.md` - Markdown report (generated)
